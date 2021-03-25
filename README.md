@@ -39,3 +39,17 @@ A repository for all the material and exercises of the data scientists of Mador 
   1. Build your own docker image, with a custom conda kernel and connected git repository, that can be connected to both via jupyter-notebook and Pycharm.
 
 
+    .--------------------------------------------------.
+    |        Column 1         | Col 2 |  Big row span  |
+    |---------------------------------+----------------|
+    |      r1_c1 spans two cols       |                |
+    |---------------------------------|                |
+    |  r2_c1 spans two rows   | r2_c2 |                |
+    |                         |-------| One large cell |
+    |                         | r3_c2 |                |
+    |-------------------------+-------|                |
+    |          ____           | r4_c2 |                |
+    `--------------------------------------------------'
+    
+    
+    
