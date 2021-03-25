@@ -24,8 +24,8 @@ A repository for all the material and exercises of the data scientists of Mador 
 | ------------- | ------------- | ------------- | ------------- |
 | Basic Linux  | 1. Introduction to basic commands <br> 2. Getting comfortable with shell | [DataCamp: Introduction to Shell](https://www.datacamp.com/courses/introduction-to-shell-for-data-science) <br> [YouTube Tutorial](https://www.youtube.com/watch?v=oxuRxtrO2Ag&t=1761s&ab_channel=JoeCollins) | 1 |
 | Basic git  | 1. Understand how git works <br> 2. Learn basic git commands <br> 3. Getting comfortable with shell  | [How to teach git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html) <br> [DataCamp: Introduction to git](https://www.datacamp.com/courses/introduction-to-git-for-data-science) | 1 |
-| Basic Conda | 1. Learn what is conda <br> 2. Learn basic conda commands | | 1 |
-| Basic Docker | 1. Introduction to basic docker terms <br> 2. Introduction to basic docker commands <br> 3. Hands on experience with docker | | 4 |
+| Basic Conda | 1. Learn what is conda <br> 2. Learn basic conda commands | [DataCamp: conda essentials](https://www.datacamp.com/courses/conda-essentials) <br> [DataCamp: conda for building packages ONLY PART 2 - Python Packages](https://www.datacamp.com/courses/conda-for-building-distributing-packages) | 1 |
+| Basic Docker | 1. Introduction to basic docker terms <br> 2. Introduction to basic docker commands <br> 3. Hands on experience with docker | [Udemy - Docker Mastery](https://drive.google.com/drive/folders/1wEB8QGBp96T1XCtuXKSeF_aPAhsESmDX) | 4 |
 
 ## Exercise
 - Estimated Duration: 2 Days
@@ -71,11 +71,11 @@ Titanic - both basic python and basic ML
 <br>
 
 # Deep Learning
-- Estimated Duration: 17 Days
+- Estimated Duration: 31 Days
 
 | Topic  | Goals | Estimated Duration <br> (Days) |
 | ------------- | ------------- | ------------- |
-| NN introduction | understanding the core of basic NNs | 0.5 |
+| NN introduction | understanding the core of basic NNs | 1 |
 | NN, pytorch | 1. Introduction to the subject of NN <br> 2. Introduction to Pytorch <br> 3. Emphasis on the theoretical aspects of learning | 30 |
 
 <br>
