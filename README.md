@@ -5,8 +5,6 @@ A repository for all the material and exercises of the data scientists of Mador 
 - First
 - Second
 
-<br/>
-
 ## Basic Tools
 | Topic  | Goals |
 | ------------- | ------------- |
