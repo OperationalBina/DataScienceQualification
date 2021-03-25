@@ -12,12 +12,12 @@ A repository for all the material and exercises of the data scientists of Mador 
 # Basic Tools
 - Estimated Duration: 9 Days
 
-| Topic  | Goals | Estimated Duration <br> (Days) |
+| Topic  | Goals | Material | Estimated Duration <br> (Days) |
 | ------------- | ------------- | ------------- |
-| Basic Linux  | 1. Introduction to basic commands <br> 2. Getting comfortable with shell | 1 |
-| Basic git  | 1. Understand how git works <br> 2. Learn basic git commands <br> 3. Getting comfortable with shell  | 1 |
+| Basic Linux  | 1. Introduction to basic commands <br> 2. Getting comfortable with shell | [DataCamp: Introduction to Shell](https://www.datacamp.com/courses/introduction-to-shell-for-data-science) | 1 |
+| Basic git  | 1. Understand how git works <br> 2. Learn basic git commands <br> 3. Getting comfortable with shell  | | 1 |
 | Basic Conda | 1. Learn what is conda <br> 2. Learn basic conda commands | 1 |
-| Basic Docker | 1. Introduction to basic docker terms <br> 2. Introduction to basic docker commands <br> 3. Hands on experience with docker | 4 |
+| Basic Docker | 1. Introduction to basic docker terms <br> 2. Introduction to basic docker commands <br> 3. Hands on experience with docker | | 4 |
 
 ## Exercise
 - Estimated Duration: 2 Days
