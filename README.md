@@ -17,3 +17,14 @@ A repository for all the material and exercises of the data scientists of Mador 
 | Basic git  | 1. Understand how git works 2. Learn basic git commands 3. Getting comfortable with shell  | 1 |
 | Basic Conda | 1. Learn what is conda 2. Learn basic conda commands | 1 |
 
+
+
+
+# Basic Tools
+- Basic Linux
+  1. Introduction to basic commands
+  2. Getting comfortable with shell
+- Basic git
+- Basic conda
+- Basic Docker
+- EX1
