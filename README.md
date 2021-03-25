@@ -1,13 +1,15 @@
-# DataScienceQualification
+# Mador BINA - Data Science Qualification
 A repository for all the material and exercises of the data scientists of Mador Bina.
 
 # Goals
 - First
 - Second
 
-# Readings
+# Recommended Literature
 | Name | Author | Year |
 | ------------- | ------------- | ------------- |
+| Clean Code | Uncle Bob | |
+| Deep Learning | | |
 
 # Basic Tools
 - Estimated Duration: 9 Days
@@ -23,6 +25,8 @@ A repository for all the material and exercises of the data scientists of Mador 
 - Estimated Duration: 2 Days
 Build your own docker image, with a custom conda kernel and connected git repository, that can be connected to both via jupyter-notebook and Pycharm.
 
+<br>
+
 # Basic python
 - Estimated Duration: 3 Days
 
@@ -30,6 +34,8 @@ Build your own docker image, with a custom conda kernel and connected git reposi
 | ------------- | ------------- | ------------- |
 | basic python | Learn the basics of python | 1 |
 | DS python tools | learn the basics of numpy, pandas and matplotlib | 2 |
+
+<br>
 
 # Python OOP and Tools
 - Estimated Duration: 4 Days
@@ -40,6 +46,8 @@ Build your own docker image, with a custom conda kernel and connected git reposi
 | logging | Intro to the logging library | 0.5 |
 | profiling and optimizing | Intro to python profiling tools | 0.5 |
 | testing | Intro to the pytest library | 1 |
+
+<br>
 
 # Basic ML
 - Estimated Duration: 17 Days
@@ -54,6 +62,8 @@ Build your own docker image, with a custom conda kernel and connected git reposi
 - Estimated Duration: 8 Days
 Titanic - both basic python and basic ML
 
+<br>
+
 # Deep Learning
 - Estimated Duration: 17 Days
 
@@ -61,6 +71,8 @@ Titanic - both basic python and basic ML
 | ------------- | ------------- | ------------- |
 | NN introduction | understanding the core of basic NNs | 0.5 |
 | NN, pytorch | 1. Introduction to the subject of NN <br> 2. Introduction to Pytorch <br> 3. Emphasis on the theoretical aspects of learning | 30 |
+
+<br>
 
 # Final Exercise
 - Estimated Duration: 1-2 months
